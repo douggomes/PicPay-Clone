@@ -11,14 +11,14 @@ Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máq
   $ git clone https://github.com/douggomes/PicPay-Clone.git
 ```
 
-Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
+Depois disso instale as dependências executando o seguinte comando:
 ```sh
   $ yarn install # ou npm install
 ```
 
 ## Executando a aplicação
 
-Execute o comando a baixo para inicializar o Expo:
+Execute o comando abaixo para inicializar o Expo:
 ```sh
   $ yarn start # ou npm start
 ```
